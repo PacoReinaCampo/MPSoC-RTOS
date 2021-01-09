@@ -1,3 +1,0 @@
-[submodule "gnudebian-distribution"]
-	path = gnudebian-distribution
-	url = https://github.com/PacoReinaCampo/gnudebian.git
