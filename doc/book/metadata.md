@@ -1,6 +1,6 @@
 ---
 title: 'MPSoC-RTOS'
-subtitle: 'QueenField ![](../../icon.jpg)'
+subtitle: 'QueenField ![](../../mpsoc-rtos.svg){width=17cm}'
 
 author: Paco Reina Campo
 
